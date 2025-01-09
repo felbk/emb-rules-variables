@@ -6,7 +6,7 @@ int a = 0; // var global
 int b = 0; // var global
 
 void foo(void) {
-    a = a + 1; // acessa variavel global.
+    a = a + 1; // acessa variavel global
 }
 
 void main(void) {
